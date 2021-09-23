@@ -2,9 +2,7 @@
 
 Project Team Members:
 Madelyn Weber
-Project Team Members:\
-Preston Windfeldt\
-Project Team Memvers:
+Preston Windfeldt
+Cynthia Lim 
 Kelvin Yang
-test changes lololololol
 
